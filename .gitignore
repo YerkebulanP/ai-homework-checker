@@ -1,0 +1,6 @@
+.env
+vision-key.json
+ai-homework-checker.json
+__pycache__/
+*.pyc
+venv/

@@ -1,0 +1,21 @@
+# Telegram-бот (Aiogram)
+aiogram==3.5.0
+
+# OpenAI GPT API
+openai==1.30.1
+
+# OCR: базовая Tesseract + TrOCR
+pytesseract==0.3.10
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# TrOCR (для рукописи, англ.)
+transformers==4.41.2
+torch==2.3.0
+torchvision==0.18.0
+
+# Утилиты
+python-dotenv==1.0.1
+
+# (опционально, если будешь использовать async OCR)
+aiofiles==23.2.1
